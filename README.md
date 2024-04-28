@@ -4,6 +4,7 @@ Data Visualization Mini Project
 ## How to Run the Files
 Follow these steps to run the files from this repository:
 ### 1. Download the Files:
+-  Github Link: https://github.com/akritiGupta23/Global-Sports-DataVista2
 -  Download the zipped file by clicking on the "Code" dropdown on github and selecting "Download ZIP".
 -  Alternatively, you can download the zipped file submitted on moodle.
 
