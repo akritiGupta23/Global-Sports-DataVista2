@@ -25,3 +25,12 @@ python app.py
 -  Once the Python file is running, you will see a message indicating that Dash is running on a specific address.
 -  Click on the server link provided or copy it to your web browser to access the application.
 - The server link will typically look like this: http://127.0.0.1:8050/
+
+
+## Website Overview
+
+![image](https://github.com/akritiGupta23/Global-Sports-DataVista2/assets/129201893/246b4d42-2609-418b-8d88-6398cae2fc08)
+![image](https://github.com/akritiGupta23/Global-Sports-DataVista2/assets/129201893/a85994bd-5fd1-4857-8974-227d99065d31)
+![image](https://github.com/akritiGupta23/Global-Sports-DataVista2/assets/129201893/157f797c-216d-4ad3-bf40-61e7c3d2ccf6)
+
+
